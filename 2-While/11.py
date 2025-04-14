@@ -5,7 +5,7 @@
 # La cantidad de números negativos ingresados. - OK
 # El promedio de los números positivos. - OK
 # El número positivo más grande. - OK
-# El porcentaje de números negativos ingresados, respecto del total de ingresos.
+# El porcentaje de números negativos ingresados, respecto del total de ingresos. - OK
 
 contador_global = 0
 max_numero = 0
